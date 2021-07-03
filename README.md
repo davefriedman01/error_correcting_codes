@@ -1,5 +1,7 @@
 # Error Correcting Codes
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davefriedman01/Coding-Theory/HEAD)
+
 ### References
 Ball, Simeon. (2020). _A Course in Algebraic Error-Correcting Codes_.<br>
 Berlekamp, Elwyn R. (2015). _Algebraic Coding Theory_.<br>
